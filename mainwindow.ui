@@ -27,6 +27,41 @@
           <layout class="QVBoxLayout" name="verticalLayout_5">
            <item>
             <layout class="QGridLayout" name="gridLayout">
+             <item row="4" column="2">
+              <widget class="QScrollBar" name="horizontalScrollBar_4">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+              </widget>
+             </item>
+             <item row="6" column="2">
+              <widget class="QScrollBar" name="horizontalScrollBar_6">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+              </widget>
+             </item>
+             <item row="5" column="2">
+              <widget class="QScrollBar" name="horizontalScrollBar_5">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="2">
+              <widget class="QScrollBar" name="horizontalScrollBar">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+              </widget>
+             </item>
+             <item row="3" column="2">
+              <widget class="QScrollBar" name="horizontalScrollBar_3">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+              </widget>
+             </item>
              <item row="0" column="0">
               <widget class="QLabel" name="label">
                <property name="maximumSize">
@@ -49,11 +84,11 @@
                 </size>
                </property>
                <property name="text">
-                <string>PushButton</string>
+                <string>ON</string>
                </property>
               </widget>
              </item>
-             <item row="1" column="1">
+             <item row="2" column="1">
               <widget class="QPushButton" name="pushButton_2">
                <property name="maximumSize">
                 <size>
@@ -62,46 +97,46 @@
                 </size>
                </property>
                <property name="text">
-                <string>PushButton</string>
+                <string>ON</string>
                </property>
               </widget>
              </item>
-             <item row="1" column="0">
+             <item row="2" column="0">
               <widget class="QLabel" name="label_2">
                <property name="text">
                 <string>LED2</string>
                </property>
               </widget>
              </item>
-             <item row="4" column="0">
+             <item row="5" column="0">
               <widget class="QLabel" name="label_5">
                <property name="text">
                 <string>LED5</string>
                </property>
               </widget>
              </item>
-             <item row="2" column="0">
+             <item row="3" column="0">
               <widget class="QLabel" name="label_3">
                <property name="text">
                 <string>LED3</string>
                </property>
               </widget>
              </item>
-             <item row="3" column="0">
+             <item row="4" column="0">
               <widget class="QLabel" name="label_4">
                <property name="text">
                 <string>LED4</string>
                </property>
               </widget>
              </item>
-             <item row="5" column="0">
+             <item row="6" column="0">
               <widget class="QLabel" name="label_6">
                <property name="text">
                 <string>LED6</string>
                </property>
               </widget>
              </item>
-             <item row="2" column="1">
+             <item row="3" column="1">
               <widget class="QPushButton" name="pushButton_3">
                <property name="maximumSize">
                 <size>
@@ -110,11 +145,11 @@
                 </size>
                </property>
                <property name="text">
-                <string>PushButton</string>
+                <string>ON</string>
                </property>
               </widget>
              </item>
-             <item row="3" column="1">
+             <item row="4" column="1">
               <widget class="QPushButton" name="pushButton_4">
                <property name="maximumSize">
                 <size>
@@ -123,11 +158,11 @@
                 </size>
                </property>
                <property name="text">
-                <string>PushButton</string>
+                <string>ON</string>
                </property>
               </widget>
              </item>
-             <item row="4" column="1">
+             <item row="5" column="1">
               <widget class="QPushButton" name="pushButton_5">
                <property name="maximumSize">
                 <size>
@@ -136,11 +171,11 @@
                 </size>
                </property>
                <property name="text">
-                <string>PushButton</string>
+                <string>ON</string>
                </property>
               </widget>
              </item>
-             <item row="5" column="1">
+             <item row="6" column="1">
               <widget class="QPushButton" name="pushButton_6">
                <property name="maximumSize">
                 <size>
@@ -149,47 +184,12 @@
                 </size>
                </property>
                <property name="text">
-                <string>PushButton</string>
-               </property>
-              </widget>
-             </item>
-             <item row="0" column="2">
-              <widget class="QScrollBar" name="horizontalScrollBar">
-               <property name="orientation">
-                <enum>Qt::Horizontal</enum>
-               </property>
-              </widget>
-             </item>
-             <item row="1" column="2">
-              <widget class="QScrollBar" name="horizontalScrollBar_2">
-               <property name="orientation">
-                <enum>Qt::Horizontal</enum>
+                <string>ON</string>
                </property>
               </widget>
              </item>
              <item row="2" column="2">
-              <widget class="QScrollBar" name="horizontalScrollBar_3">
-               <property name="orientation">
-                <enum>Qt::Horizontal</enum>
-               </property>
-              </widget>
-             </item>
-             <item row="3" column="2">
-              <widget class="QScrollBar" name="horizontalScrollBar_4">
-               <property name="orientation">
-                <enum>Qt::Horizontal</enum>
-               </property>
-              </widget>
-             </item>
-             <item row="4" column="2">
-              <widget class="QScrollBar" name="horizontalScrollBar_5">
-               <property name="orientation">
-                <enum>Qt::Horizontal</enum>
-               </property>
-              </widget>
-             </item>
-             <item row="5" column="2">
-              <widget class="QScrollBar" name="horizontalScrollBar_6">
+              <widget class="QScrollBar" name="horizontalScrollBar_2">
                <property name="orientation">
                 <enum>Qt::Horizontal</enum>
                </property>
