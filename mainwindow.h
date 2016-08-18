@@ -34,6 +34,10 @@ private slots:
 private:
     Ui::MainWindow *ui;
     QSerialPort *arduino;
+    static const quint16 arduino_uno_vendor_id = 4292;
+    static const quint16 arduino_uno_product_id = 60000;
+    QString arduino_port_name;
+    bool arduino_is_available;
 };
 
 #endif // MAINWINDOW_H
